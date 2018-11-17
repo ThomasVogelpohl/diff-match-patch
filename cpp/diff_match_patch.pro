@@ -11,9 +11,9 @@ mac {
 
 FORMS =
 
-HEADERS = diff_match_patch.h diff_match_patch_test.h
+HEADERS = diff_match_patch_qt.h diff_match_patch_test_qt.h
 
-SOURCES = diff_match_patch.cpp diff_match_patch_test.cpp
+SOURCES = diff_match_patch_qt.cpp diff_match_patch_test_qt.cpp
 
 RESOURCES = 
 
